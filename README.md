@@ -1,4 +1,4 @@
-# _Fuck l'école, je préfère entreprendre_
+# https://davidtanasescu.com/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alm0stEthical&theme=onedark&hide_border=false)<br/>
