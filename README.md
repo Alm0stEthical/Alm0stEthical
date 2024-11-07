@@ -1,4 +1,4 @@
-# https://davidtanasescu.com/
+Howdy, I'm a full stack web developer and web pen tester
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alm0stEthical&theme=onedark&hide_border=false)<br/>
