@@ -1,6 +1,4 @@
-full stack web developer and web pen tester
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alm0stEthical&theme=onedark&hide_border=false)<br/>
-
+fs web dev and web pen tester
+.LONG WAY.'PLEASURE' (様式)
 
 ![](https://komarev.com/ghpvc/?username=alm0stethical)
