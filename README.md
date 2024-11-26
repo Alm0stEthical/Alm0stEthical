@@ -1,4 +1,4 @@
-Howdy, I'm a full stack web developer and web pen tester
+full stack web developer and web pen tester
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alm0stEthical&theme=onedark&hide_border=false)<br/>
 
