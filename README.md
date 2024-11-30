@@ -1,6 +1,6 @@
 # Full-stack Website Developer & Website Penetration Tester
 
-_"LONG WAY. 'PLEASURE' (\u69d8\u5f0f)"_
+_".LONG WAY. “PLEASURE” (樣式)"_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
 
