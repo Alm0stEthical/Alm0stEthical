@@ -18,7 +18,7 @@ I build **dynamic** and **static** websites using **React** (with Remix / Next.j
 | Project Name                                | Technology Stack             | URL                                                 |
 |--------------------------------------------|------------------------------|-----------------------------------------------------|
 | **AndroiTweaks**                            | Next.js + Supabase           | [androitweaks.com](https://androitweaks.com/)       |
-| **Cube Cloud Dashboard**                    | Next.js + Supabase/MongoDB   | [dash.cubecloud.ca](https://dash.cubecloud.ca/)     |
+| **Cube Cloud Dashboard**                    | Next.js + Supabase/MongoDB   | [dash.cubecloud.ca](https://cubecloud.ca/)     |
 | **Dierenpension De Pillow Rijn**            | Next.js + MySQL              | [dierenpension.depillowrijn.be](https://dierenpension.depillowrijn.be/) |
 | **Wortkarten**                              | Next.js + MySQL              | [wortkarten.be](https://wortkarten.be/)             |
 | **Rocky Gym Demo**                          | Vite                         | [demo.rocky-gym.be.davidtanasescu.com](https://demo.rocky-gym.be.davidtanasescu.com/) |
