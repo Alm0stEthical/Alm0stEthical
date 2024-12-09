@@ -4,6 +4,8 @@ _".LONG WAY. “PLEASURE” (樣式)"_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
 
+Penetration Testing: €54.39/hour (negotiable)
+Full-stack Website Development: Competitive rates based on project scope
 ---
 
 ## About Me
