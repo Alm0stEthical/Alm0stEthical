@@ -10,7 +10,7 @@
 
 
 # **Full-stack Developer & Website Penetration Tester**  
-*"_LONG WAY. “PLEASURE” (樣式)_"*  
+*_LONG WAY. “PLEASURE” (樣式)_*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
 
