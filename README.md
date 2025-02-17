@@ -14,7 +14,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
 ## About Me
-Hi, 👋  
 I'm a **Full-stack Developer** who creates **dynamic** and **static** websites with a focus on speed, modern design, and seamless functionality. I use frameworks like **React (Next.js/Remix/Vite)** and backend services like **Supabase** to deliver high-quality solutions.  
 In addition, I specialize in **website penetration testing**, ensuring the websites I build—or those of my clients—are secure!
 
