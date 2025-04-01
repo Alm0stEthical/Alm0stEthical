@@ -1,6 +1,3 @@
-## Pricing  
-### **Services and Rates:**  
-
 - **Penetration Testing:** **€54.39/hour** _(negotiable)_  
 - **Full-stack Website Development:** Starting at **€27.92/hour** _(varies based on project scope)_  
 - **Minor Website Updates (including hotfixes):** **€9.28/hour**  
