@@ -1,3 +1,9 @@
+README BEFORE YOU CONTACT ME!:
+❗Currently working full-time on a big real  estate project:
+https://tanupoholding.com/
+I will be very busy and may be slow to respond to emails. Sorry for the inconvenience!
+
+
 # **Full-stack Developer & Website Penetration Tester**  
 *_LONG WAY. “PLEASURE” (樣式)_*  
 
