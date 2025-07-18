@@ -9,6 +9,7 @@ Right now, I’m also working on a roleplay server called **BeneluxRoleplay**.
 ## My Web Projects
 | Project Name      | What I Used                  | Website Link                                    |
 |-------------------|-----------------------------|-------------------------------------------------|
+| **Airnode**           | Next.js                        | [airnode.nl](https://www.airnode.nl/)
 | **AndroiTweaks**      | Next.js + Supabase             | [androitweaks.com](https://androitweaks.com/)   |
 | **Wortkarten**        | Next.js + MySQL                | [wortkarten.be](https://wortkarten.be/)         |
 | **Factuurmeester**    | Next.js + Prisma + PostgreSQL  | [factuurmeester.pro](https://factuurmeester.pro/)|
