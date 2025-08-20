@@ -38,7 +38,6 @@ I build **modern web applications** and create **immersive FiveM servers**!
 ## 💻 My Projects
 
 ### **🌐 Web Applications**
-
 | 🌟 **Project** | 🔧 **Tech Stack** | 🌐 **Live Site** |
 |----------------|-------------------|------------------|
 | **Airnode** | Next.js + TypeScript | [airnode.nl](https://www.airnode.nl/) |
@@ -46,12 +45,11 @@ I build **modern web applications** and create **immersive FiveM servers**!
 | **Wortkarten** | Next.js + MySQL + TypeScript | [wortkarten.be](https://wortkarten.be/) |
 ---
 
-## 🔌 Browser Extensions
-
-| | **Extension** | **Users** | **Download** |
-|---|---------------|-----------|--------------|
-| ![Score Improver](https://lh3.googleusercontent.com/2-2N-4K953FHiEEDf9Caw_5teqPNkwZlRC7K7ahaT5P4qRaZLIc3izztXDRDhgsz4u6kt5tOg8B6612yY7f03uWNtw=s60) | **Smartschool Score Improver** | 1,000+ | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-score-improve/conifdhgbdkogpjbmjielkbciclfekif) |
-| ![Tweaks](https://lh3.googleusercontent.com/cVMw3n8koHMVI3D5MoPvjci3UQvspBqZWkYoqZ-5mmd9pV9Co9r9wlJIJAKdKSA1fSi6_zOwZCQLtwYcYtkd2_n57Q=s60) | **Smartschool Tweaks** | 500+ | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-tweaks/nkapofkpgbkekifieeadkdnfnkbjpkpk) |
+## 🔌 Browser Extensions  
+| | **Extension** | **Download** |
+|:---:|:---:|:---:|
+| ![Score Improver](https://lh3.googleusercontent.com/2-2N-4K953FHiEEDf9Caw_5teqPNkwZlRC7K7ahaT5P4qRaZLIc3izztXDRDhgsz4u6kt5tOg8B6612yY7f03uWNtw=s60) | **Smartschool Score Improver** | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-score-improve/conifdhgbdkogpjbmjielkbciclfekif) |
+| ![Tweaks](https://lh3.googleusercontent.com/cVMw3n8koHMVI3D5MoPvjci3UQvspBqZWkYoqZ-5mmd9pV9Co9r9wlJIJAKdKSA1fSi6_zOwZCQLtwYcYtkd2_n57Q=s60) | **Smartschool Tweaks** | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-tweaks/nkapofkpgbkekifieeadkdnfnkbjpkpk) |
 
 ---
 
