@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm David - Web Developer & FiveM Creator
+# 👋 Hey there! I'm David - Web Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
 
@@ -44,8 +44,6 @@ I build **modern web applications** and create **immersive FiveM servers**!
 | **Airnode** | Next.js + TypeScript | [airnode.nl](https://www.airnode.nl/) |
 | **AndroiTweaks** | Next.js + Supabase + TypeScript | [androitweaks.com](https://androitweaks.com/) |
 | **Wortkarten** | Next.js + MySQL + TypeScript | [wortkarten.be](https://wortkarten.be/) |
-| **Factuurmeester** | Next.js + Prisma + PostgreSQL | [factuurmeester.pro](https://factuurmeester.pro/) |
-
 ---
 
 ## 🔌 Browser Extensions
