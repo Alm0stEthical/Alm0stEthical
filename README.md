@@ -4,11 +4,11 @@
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I build **modern web applications** and create **immersive FiveM servers**! 
 
-✨ I specialize in creating websites that:
+I specialize in creating websites that:
 - Look stunning with modern UI/UX
 - Load blazingly fast
 - Provide seamless user experiences
@@ -16,7 +16,7 @@ I build **modern web applications** and create **immersive FiveM servers**!
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 ### **Frontend & Full-Stack**
 - **[React](https://react.dev/)** with **[Next.js](https://nextjs.org/)** & **[Vite](https://vite.dev/)**
@@ -35,17 +35,17 @@ I build **modern web applications** and create **immersive FiveM servers**!
 
 ---
 
-## 💻 My Projects
+## My Projects
 
-### **🌐 Web Applications**
-| 🌟 **Project** | 🔧 **Tech Stack** | 🌐 **Live Site** |
+### **Web Applications**
+| **Project** | **Tech Stack** | **Live Site** |
 |----------------|-------------------|------------------|
 | **Airnode** | Next.js + TypeScript | [airnode.nl](https://www.airnode.nl/) |
 | **AndroiTweaks** | Next.js + Supabase + TypeScript | [androitweaks.com](https://androitweaks.com/) |
 | **Wortkarten** | Next.js + MySQL + TypeScript | [wortkarten.be](https://wortkarten.be/) |
 ---
 
-## 🔌 Browser Extensions  
+## Browser Extensions  
 | | **Extension** | **Download** |
 |:---:|:---:|:---:|
 | ![Score Improver](https://lh3.googleusercontent.com/2-2N-4K953FHiEEDf9Caw_5teqPNkwZlRC7K7ahaT5P4qRaZLIc3izztXDRDhgsz4u6kt5tOg8B6612yY7f03uWNtw=s60) | **Smartschool Score Improver** | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-score-improve/conifdhgbdkogpjbmjielkbciclfekif) |
@@ -53,7 +53,7 @@ I build **modern web applications** and create **immersive FiveM servers**!
 
 ---
 
-## 📊 Analytics Dashboard
+## Analytics Dashboard
 
 **Website Performance (Last 30 Days)**
 
@@ -62,20 +62,11 @@ I build **modern web applications** and create **immersive FiveM servers**!
 *Analytics updated monthly*
 
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🔨 Building **type-safe full-stack applications**
-- 🎮 Developing **BeneluxRoleplay** FiveM server
-- 📱 Creating **useful browser extensions**
-- 🌐 Optimizing **web performance** and **user experience**
-
----
-
-## 📬 Let's Connect
-
-💼 **Looking for collaboration or have a project in mind?**
-
-📧 **Email:** hello@davidtanasescu.com
+- Building **type-safe full-stack applications**
+- Creating **useful browser extensions**
+- Optimizing **web performance** and **user experience**
 
 ---
 
