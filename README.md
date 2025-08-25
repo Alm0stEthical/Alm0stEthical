@@ -1,23 +1,15 @@
-# 👋 Hey there! I'm David - Web Developer
-
+# 👋 Hey there! I'm David a **Full-stack engineer**
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
-
----
-
 ## What I Do
 
-I build **modern web applications** and create **immersive FiveM servers**! 
+I make **websites**!
 
 I specialize in creating websites that:
 - Look stunning with modern UI/UX
-- Load blazingly fast
-- Provide seamless user experiences
-- Are fully type-safe and scalable
-
+- Load _very very very_ fast
+- Are fully type-safe and scalable; so anyone can work on what I built, and continue maintaining it
 ---
-
-## My Tech Stack
-
+## My Tech Stack for now 😜
 ### **Frontend & Full-Stack**
 - **[React](https://react.dev/)** with **[Next.js](https://nextjs.org/)** & **[Vite](https://vite.dev/)**
 - **[TypeScript](https://www.typescriptlang.org/)** for type safety
@@ -34,15 +26,14 @@ I specialize in creating websites that:
 - **[Resend](https://resend.com/)** - Email delivery & marketing
 
 ---
-
 ## My Projects
-
 ### **Web Applications**
 | **Project** | **Tech Stack** | **Live Site** |
 |----------------|-------------------|------------------|
 | **Airnode** | Next.js + TypeScript | [airnode.nl](https://www.airnode.nl/) |
 | **AndroiTweaks** | Next.js + Supabase + TypeScript | [androitweaks.com](https://androitweaks.com/) |
 | **Wortkarten** | Next.js + MySQL + TypeScript | [wortkarten.be](https://wortkarten.be/) |
+| **Studiokabaal** | Next.js + Drizle w/ PostgreSQL + Resend & more | [studiokabaal.be](https://studiokabaal.be/) |
 ---
 
 ## Browser Extensions  
@@ -60,16 +51,7 @@ I specialize in creating websites that:
 <img width="1212" height="104" alt="Website Analytics Dashboard" src="https://github.com/user-attachments/assets/5d92b22b-7f52-4cad-a0b0-261430b689b2" />
 
 *Analytics updated monthly*
-
-
-## Current Focus
-
-- Building **type-safe full-stack applications**
-- Creating **useful browser extensions**
-- Optimizing **web performance** and **user experience**
-
 ---
-
 <div align="center">
 
 **⭐ Thanks for visiting my profile! ⭐**
