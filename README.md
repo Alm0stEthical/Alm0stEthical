@@ -33,7 +33,7 @@ I specialize in creating websites that:
 | **Airnode** | Next.js + TypeScript | [airnode.nl](https://www.airnode.nl/) |
 | **AndroiTweaks** | Next.js + Supabase + TypeScript | [androitweaks.com](https://androitweaks.com/) |
 | **Wortkarten** | Next.js + MySQL + TypeScript | [wortkarten.be](https://wortkarten.be/) |
-| **Studiokabaal** | Next.js + Drizle w/ PostgreSQL + Resend & more | [studiokabaal.be](https://studiokabaal.be/) |
+| **Studiokabaal** | Next.js + Drizzle w/ PostgreSQL + Resend & more | [studiokabaal.be](https://studiokabaal.be/) |
 ---
 
 ## Browser Extensions  
