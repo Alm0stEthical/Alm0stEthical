@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm David a **Full-stack engineer**
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
 ## What I Do
-
+Currently focusing on web and desktop cybersecurity
 I make **websites**!
 
 I specialize in creating websites that:
