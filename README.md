@@ -12,7 +12,7 @@ I specialize in creating websites that:
 ---
 ## My Tech Stack for now 😜
 ### **Frontend & Full-Stack**
-- **[React](https://react.dev/)** with **[Next.js](https://nextjs.org/)** & **[Vite](https://vite.dev/)**
+- **[React](https://react.dev/)** with **[Next.js](https://nextjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)** for type safety
 - **[Tailwind CSS](https://tailwindcss.com/)** & **[Shadcn/ui](https://ui.shadcn.com/)** for styling
 - **[TanStack Query](https://tanstack.com/query)** for data fetching
