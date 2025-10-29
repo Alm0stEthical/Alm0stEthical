@@ -7,7 +7,7 @@ I **build websites** - including Onion sites upon request. If you prefer not to 
 
 I specialize in creating websites that:
 * Feature a clean, modern UI/UX
-* Load extremely fast
+* Load **extremely** fast
 * Are fully type-safe and scalable, making them easy to maintain and extend by any developer
 ---
 ## My Tech Stack for now 😜
