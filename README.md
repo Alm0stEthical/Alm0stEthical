@@ -52,7 +52,7 @@ I specialize in creating websites that:
 
 <img width="1212" height="104" alt="Website Analytics Dashboard" src="https://github.com/user-attachments/assets/5d92b22b-7f52-4cad-a0b0-261430b689b2" />
 
-*Analytics updated monthly*
+*Analytics get updated when I feel like it*
 ---
 <div align="center">
 
