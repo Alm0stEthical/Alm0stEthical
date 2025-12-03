@@ -23,7 +23,7 @@ I specialize in creating websites that:
 - **[Bun](https://bun.sh/)** - Modern JavaScript runtime
 - **[Better Auth](https://www.better-auth.com/)** - Authentication
 - **[Drizzle ORM](https://orm.drizzle.team/)** - Type-safe database toolkit
-- **[PostgreSQL](https://www.postgresql.org/)** & **[Supabase](https://supabase.com/)** - Databases
+- **[PostgreSQL](https://www.postgresql.org/)** - Database
 - **[Resend](https://resend.com/)** - Email delivery & marketing
 
 ---
