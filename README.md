@@ -1,8 +1,6 @@
 # 👋 Hey there! I'm David a **Full-stack engineer**
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
 ## What I Do
-I’m currently focused on web and desktop cybersecurity.
-
 I **build websites** - including Onion sites upon request. If you prefer not to have your project showcased, that’s completely fine and comes at no extra cost.
 
 I specialize in creating websites that:
