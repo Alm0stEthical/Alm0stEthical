@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm David a **Full-stack engineer**
 ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
 ## What I Do
-I **build websites** - including Onion sites upon request. If you prefer not to have your project showcased, that’s completely fine and comes at no extra cost.
+I **build websites**. If you prefer not to have your project showcased, that’s completely fine and comes at no extra cost.
 
 I specialize in creating websites that:
 * Feature a clean, modern UI/UX
@@ -43,9 +43,5 @@ I specialize in creating websites that:
 | ![Grid](https://lh3.googleusercontent.com/usothX8qPAaXB2d5oxvOESh7mqtAmz5R184rDxWMIelNmZWnWXS-4gzwHmwLOIoKkA-sLGeADYgsRKutpHuVcrjrVA=s60) | **Smartschool Grid** | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-grid/epjdekbdhhhpkpkclookegeabjkpblch)
 
 ---
-
-## Analytics Dashboard
-
-**Website Performance (Last 30 Days)**
-
+## Analytics 
 <img width="1212" height="104" alt="Website Analytics Dashboard" src="https://github.com/user-attachments/assets/5d92b22b-7f52-4cad-a0b0-261430b689b2" />
