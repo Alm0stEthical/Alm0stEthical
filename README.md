@@ -1,14 +1,12 @@
-# 👋 Hey there! I'm David a **Full-stack engineer**
-![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
-## What I Do
-I **build websites**. If you prefer not to have your project showcased, that’s completely fine and comes at no extra cost.
+# A **Full-stack engineer** ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
+I **build websites**.
 
 I specialize in creating websites that:
 * Feature a clean, modern UI/UX
 * Load **extremely** fast
 * Are fully type-safe and scalable, making them easy to maintain and extend by any developer
 ---
-## My Tech Stack for now 😜
+## My Tech Stack for now 😋
 ### **Frontend & Full-Stack**
 - **[React](https://react.dev/)** with **[Next.js](https://nextjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)** for type safety
