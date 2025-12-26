@@ -27,6 +27,7 @@ I specialize in creating websites that:
 ### **Web Applications**
 | **Project** | **Tech Stack** | **Live Site** |
 |----------------|-------------------|------------------|
+| **NextAirHost** | Next.js + Drizzle ORM + Postgres + tRPC + Resend & more | [nextairhost.store](https://nextairhost.store/) |
 | **Airnode** | Next.js + TypeScript | [airnode.nl](https://www.airnode.nl/) |
 | **AndroiTweaks** | Next.js + Supabase + TypeScript | [androitweaks.com](https://androitweaks.com/) |
 | **Wortkarten** | Next.js + MySQL + TypeScript | [wortkarten.be](https://wortkarten.be/) |
