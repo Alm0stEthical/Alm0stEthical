@@ -45,118 +45,121 @@ I specialize in creating websites that:
 ## Analytics 
 <img width="1251" height="106" alt="image" src="https://github.com/user-attachments/assets/5680898a-9b39-4e4d-a7fd-47b3ee33a1b4" />
 ---
-My skills:
-Python
-C
-C++
-Java
-HTML
-CSS
-JavaScript
-TypeScript
-React
-Next.js
-Vue
-Angular
-Svelte
-Node.js
-Express
-Django
-Flask
-FastAPI
-Spring Boot
-PHP
-Laravel
-Ruby
-Ruby on Rails
-Go
-Rust
-Kotlin
-Swift
-C#
-.NET
-SQL
-MySQL
-PostgreSQL
-MongoDB
-Redis
-Firebase
-Supabase
-Prisma
-Docker
-Kubernetes
-Nginx
-Linux
-Git
-GitHub
-Gitflow
-VS Code
-IntelliJ
-Cloud Computing
-AWS
-Azure
-GCP
-DevOps
-CI/CD
-Jest
-PyTest
-Selenium
-REST APIs
-GraphQL
-WebSockets
-JWT
-OAuth
-Microservices
-System Design
-Data Structures & Algorithms
-Operating Systems
-DBMS
-Computer Networks
-Compilers
-Computer Architecture
-Machine Learning
-Deep Learning
-NLP
-Computer Vision
-Artificial Intelligence
-PyTorch
-TensorFlow
-Scikit-learn
-Hugging Face
-LLMs
-OpenAI APIs
-RAG
-Data Engineering
-ETL
-Hadoop
-Spark
-Snowflake
-Pandas
-NumPy
-Matplotlib
-Power BI
-Tableau
-Cybersecurity
-Ethical Hacking
-Penetration Testing
-Cryptography
-Blockchain
-Solidity
-Web3
-UI/UX
-Figma
-Tailwind CSS
-Bootstrap
-Three.js
-WebGL
-Android Development (Java/Kotlin)
-iOS Development (Swift)
-Flutter
-React Native
-Unity
-Unreal Engine
-Game Development
-AR / VR
-Agile
-Scrum
-Jira
+
+## Skills (yes)
+
+- Python
+- C
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Vue
+- Angular
+- Svelte
+- Node.js
+- Express
+- Django
+- Flask
+- FastAPI
+- Spring Boot
+- PHP
+- Laravel
+- Ruby
+- Ruby on Rails
+- Go
+- Rust
+- Kotlin
+- Swift
+- C#
+- .NET
+- SQL
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+- Firebase
+- Supabase
+- Prisma
+- Drizzle ORM
+- Docker
+- Kubernetes
+- Nginx
+- Linux
+- Git
+- GitHub
+- Gitflow
+- VS Code
+- IntelliJ
+- Cloud Computing
+- AWS
+- Azure
+- GCP
+- DevOps
+- CI/CD
+- Jest
+- PyTest
+- Selenium
+- REST APIs
+- GraphQL
+- WebSockets
+- JWT
+- OAuth
+- Microservices
+- System Design
+- Data Structures & Algorithms
+- Operating Systems
+- DBMS
+- Computer Networks
+- Compilers
+- Computer Architecture
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Artificial Intelligence
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Hugging Face
+- LLMs
+- OpenAI APIs
+- RAG
+- Data Engineering
+- ETL
+- Hadoop
+- Spark
+- Snowflake
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- Tableau
+- Cybersecurity
+- Ethical Hacking
+- Penetration Testing
+- Cryptography
+- Blockchain
+- Solidity
+- Web3
+- UI/UX
+- Figma
+- Tailwind CSS
+- Bootstrap
+- Three.js
+- WebGL
+- Android Development (Java/Kotlin)
+- iOS Development (Swift)
+- Flutter
+- React Native
+- Unity
+- Unreal Engine
+- Game Development
+- AR / VR
+- Agile
+- Scrum
+- Jira
