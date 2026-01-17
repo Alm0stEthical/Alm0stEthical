@@ -15,7 +15,7 @@ I specialize in creating websites that:
 - **[tRPC](https://trpc.io/)** for end-to-end typesafe APIs
 
 ### **Backend & Database**
-- **[Hono](https://hono.dev/)** - Fast web framework
+- **[Hono](https://hono.dev/)** - Fast web framework (for backend)
 - **[Bun](https://bun.sh/)** - Modern JavaScript runtime
 - **[Better Auth](https://www.better-auth.com/)** - Authentication
 - **[Drizzle ORM](https://orm.drizzle.team/)** - Type-safe database toolkit
