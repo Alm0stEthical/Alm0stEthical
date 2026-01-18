@@ -43,8 +43,7 @@ I specialize in creating websites that:
 
 ---
 ## Analytics 
-<img width="1286" height="241" alt="image" src="https://github.com/user-attachments/assets/793a96ac-2faa-4917-a32e-1eaa686832cb" />
-
+<img width="2570" height="451" alt="image" src="https://github.com/user-attachments/assets/77d3d052-958d-4385-950f-719119420900" />
 
 ## Skills (yes)
 
