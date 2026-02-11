@@ -43,5 +43,4 @@ I specialize in creating websites that:
 
 ---
 ## Analytics 
-<img width="1267" height="240" alt="image" src="https://github.com/user-attachments/assets/8e9abf9c-1fae-44f0-b488-ebc9d4eb5d74" />
-
+<img width="1310" height="246" alt="image" src="https://github.com/user-attachments/assets/256e2312-efbc-4a0c-93eb-c91bcff56c1f" />
