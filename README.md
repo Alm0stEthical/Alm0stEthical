@@ -6,21 +6,20 @@ I specialize in creating websites that:
 * Load **extremely** fast
 * Are fully type-safe and scalable, making them easy to maintain and extend by any developer
 ---
-## My Tech Stack for now 😋
+## My Tech Stack for now 😋  
 ### **Frontend & Full-Stack**
 - **[React](https://react.dev/)** with **[Next.js](https://nextjs.org/)**
-- **[TypeScript](https://www.typescriptlang.org/)** for type safety
-- **[Tailwind CSS](https://tailwindcss.com/)** & **[Shadcn/ui](https://ui.shadcn.com/)** for styling
-- **[TanStack Query](https://tanstack.com/query)** for data fetching
-- **[tRPC](https://trpc.io/)** for end-to-end typesafe APIs
+- **[TypeScript](https://www.typescriptlang.org/)** for type safety  
+- **[Tailwind CSS](https://tailwindcss.com/)** & **[Shadcn/ui](https://ui.shadcn.com/)** for styling  
+- **[Elysia](https://elysiajs.com/)** + **[Eden](https://elysiajs.com/eden/overview)** for end-to-end typesafe APIs  
 
 ### **Backend & Database**
-- **[Hono](https://hono.dev/)** - Fast web framework (for backend)
-- **[Bun](https://bun.sh/)** - Modern JavaScript runtime
-- **[Better Auth](https://www.better-auth.com/)** - Authentication
-- **[Drizzle ORM](https://orm.drizzle.team/)** - Type-safe database toolkit
-- **[PostgreSQL](https://www.postgresql.org/)** - Database
-- **[Resend](https://resend.com/)** - Email delivery & marketing
+- **[Bun](https://bun.sh/)** - Modern JavaScript runtime  
+- **[Better Auth](https://www.better-auth.com/)** - Authentication  
+- **[Drizzle ORM](https://orm.drizzle.team/)** - Type-safe database toolkit  
+- **[PostgreSQL](https://www.postgresql.org/)** - Database  
+- **[Redis](https://redis.io/)** - Caching  
+- **[Resend](https://resend.com/)** - Email delivery & marketing  
 
 ---
 ## My Projects
