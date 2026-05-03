@@ -33,9 +33,9 @@ I specialize in architecting digital experiences that:
 ### **Web Applications**
 | **Project** | **Tech Stack** | **Live Site** |
 |----------------|-------------------|------------------|
-| **Airnode** | Next.js + TypeScript | [[airnode.nl](http://airnode.nl)](https://www.airnode.nl/) |
-| **AndroiTweaks** | Next.js + Supabase + TypeScript | [[androitweaks.com](http://androitweaks.com)](https://androitweaks.com/) |
-| **Studiokabaal** | Next.js + Drizzle w/ PostgreSQL + Resend & more | [[studiokabaal.be](http://studiokabaal.be)](https://studiokabaal.be/) |
+| **Airnode** | Next.js + TypeScript | [airnode.nl](http://airnode.nl) |
+| **AndroiTweaks** | Next.js + Elysia + Drizzle + PostgreSQL + Better Auth + AWS S3 + TypeScript | [androitweaks.com](http://androitweaks.com) |
+| **Studiokabaal** | Next.js + Drizzle w/ PostgreSQL + Resend & more | [studiokabaal.be](http://studiokabaal.be) |
 
 ---
 
@@ -43,7 +43,7 @@ I specialize in architecting digital experiences that:
 | | **Extension** | **Download** |
 |:---:|:---:|:---:|
 | ![Score Improver](https://lh3.googleusercontent.com/2-2N-4K953FHiEEDf9Caw_5teqPNkwZlRC7K7ahaT5P4qRaZLIc3izztXDRDhgsz4u6kt5tOg8B6612yY7f03uWNtw=s60) | **Smartschool Score Improver** | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-score-improve/conifdhgbdkogpjbmjielkbciclfekif) |
-| ![Tweaks](https://lh3.googleusercontent.com/cVMw3n8koHMVI3D5MoPvjci3UQvspBqZWkYoqZ-5mmd9pV9Co9r9wlJIJAKdKSA1fSi6_zOwZCQLtwYcYtkd2_n57Q=s60) | **Smartschool Tweaks** | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-tweaks/nkapofkpgbkekifieeadkdnfnkbjpkpk) |
+| ![Tweaks](https://lh3.googleusercontent.com/cVMw3n8koHMVI3D5MoPvjci3UQvspBqZWkYoqZ-5mmd9pV9Co9r9wlJIJAKdKSA1fSi6_zOwZCQLtwYcYtkd2_n57Q=s60) | **Smartschool Tweaks** | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-tweaks/nkapofkpgbkekifieeadkdnfnkbjkpkk) |
 | ![Grid](https://lh3.googleusercontent.com/usothX8qPAaXB2d5oxvOESh7mqtAmz5R184rDxWMIelNmZWnWXS-4gzwHmwLOIoKkA-sLGeADYgsRKutpHuVcrjrVA=s60) | **Smartschool Grid** | [Chrome Store](https://chromewebstore.google.com/detail/smartschool-grid/epjdekbdhhhpkpkclookegeabjkpblch) |
 
 ---
