@@ -1,4 +1,4 @@
-# A **Digital Architect** ![Profile Views](https://komarev.com/ghpvc/?username=alm0stethical)
+# A **Digital Architect**
 I **design and engineer the web**.
 I specialize in architecting digital experiences that:
 * Are built with a precise, modern UI/UX
