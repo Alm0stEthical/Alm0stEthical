@@ -5,11 +5,9 @@ I specialize in architecting digital experiences that:
 * Perform at an exceptionally high level
 * Are fully type-safe and scalable, built to last and easy for any developer to extend
 
-> This is just what I choose to show. The full stack runs deeper.
-
 ---
 
-## My Blueprint
+## My stack
 ### **Frontend & Full-Stack**
 - **[React](https://react.dev/)** with **[Next.js](https://nextjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)** for type safety
@@ -24,5 +22,3 @@ I specialize in architecting digital experiences that:
 - **[PostgreSQL](https://www.postgresql.org/)** - Database
 - **[Redis](https://redis.io/)** - Caching
 - **[Resend](https://resend.com/)** - Email delivery & marketing
-
-> Not locked into any stack. If your project needs a different technology or integration, I will learn it and ship it.
