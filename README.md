@@ -1,6 +1,5 @@
 # A **Digital Architect**
-I **design and engineer the web**.
-I specialize in architecting digital experiences that:
+I specialize in creating dynamic websites:
 * Are built with a precise, modern UI/UX
 * Perform at an exceptionally high level
 * Are fully type-safe and scalable, built to last and easy for any developer to extend
